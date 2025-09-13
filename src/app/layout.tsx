@@ -6,6 +6,9 @@ import './globals.css';
 export const metadata: Metadata = {
   title: '모이자요',
   description: '함께하는 모임으로 건강하고 활기찬 직장생활을 만들어보세요',
+  verification: {
+    google: 'EoOLKVW4Fb0W4iV-a6dnua3aUYhYS9W4wS7nG73Q9p8',
+  },
   icons: {
     icon: [
       { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
