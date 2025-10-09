@@ -189,16 +189,14 @@ Axios Interceptor와 Tanstack Query의 전역 설정 기능을 통해 **모든 A
 
 ### CI/CD
 
-![CI/CD](https://github.com/user-attachments/assets/1001f37f-56ac-4f46-b7f2-6c88601136a4)
-
 #### 코드 품질 관리
-
+![로컬](https://github.com/user-attachments/assets/19653227-8338-4dd9-95a5-d37493511a28)
 - Husky + lint-staged를 통한 커밋 전 코드 품질 검사
 - ESLint, Prettier 자동 실행으로 배포 에러 사전 예방
 - 일관된 코드 스타일과 규칙 강제
 
 #### 자동화된 배포 파이프라인
-
+![ci-cd](https://github.com/user-attachments/assets/38bf0c85-4600-4d2f-9411-f0d2eef347fb)
 - GitHub Actions를 통한 자동화된 배포
 - 코드 품질 검사 및 테스트 자동화
 - Vercel을 통한 무중단 배포
